@@ -1,0 +1,14 @@
+{
+    "name": "assessment_3/assessment_3",
+    "type": "project",
+    "description": "a new project",
+    "keywords": [],
+    "license": "",
+    "require": {},
+    "require-dev": {},
+    "autoload": {
+      "psr-4": {
+        "App\\": "app//"
+      }
+    }
+  }
